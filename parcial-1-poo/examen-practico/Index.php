@@ -7,7 +7,7 @@ $objusuarios = [];
 $errorMsg = "";
 
 try {
-    $objusuarios[] = new Admin("said Dominguez", "abdelalvarez55@gmail.com");
+    $objusuarios[] = new Admin("said Dominguez", "saidnat@gmail.com");
     $objusuarios[] = new Alumno("Jose Castillo", "joseki@universidad.edu", "23179845");
     $uError = new Alumno("juan Antonio", "juan@universidaddu", "20324456");
 
